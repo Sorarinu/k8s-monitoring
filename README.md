@@ -1,4 +1,4 @@
-# k8s-monitor
+# k8s-monitoring
 
 Grafana + Loki + Promtail on Kubernetes.
 
